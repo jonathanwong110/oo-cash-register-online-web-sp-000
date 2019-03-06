@@ -7,11 +7,4 @@ class CashRegister
     @items = []
   end
   
-  def add_item(array)
-    self.array << total
-  end
-  
-  def apply_discount
-    @self
-  end
 end
