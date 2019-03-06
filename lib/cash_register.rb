@@ -13,5 +13,6 @@ class CashRegister
   end
   
   def apply_discount
-    
+    @self
+  end
 end
