@@ -7,7 +7,8 @@ class CashRegister
     discount = 20
   end
   
-  def total
-    @total
+  def add_item(array)
+    array = []
+    @array << total
   end
 end
