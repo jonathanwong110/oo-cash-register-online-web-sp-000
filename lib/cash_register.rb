@@ -8,7 +8,6 @@ class CashRegister
   end
   
   def add_item(array)
-    array = []
-    @array << total
+    self.array << total
   end
 end
